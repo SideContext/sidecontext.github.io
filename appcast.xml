@@ -13,8 +13,8 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/sidecontext/releases/releases/download/v0.2.0/Sidecontext-0.2.0.dmg"
-                sparkle:edSignature="OY01y0NhljkcvTUo22geIxri/JYruIwQVV0X5Qm3l3Ki7kjC3ci63GM0wKSo6HanMizsOvb2a4HuhSyP+z1iDA=="
-                length="12251476"
+                sparkle:edSignature="z02AxTm43AhZRQZu+dakSSA6sxZozYBiUWZE6fQn+l+L4wWnkkmfWOpQeX9813FVy3LDtJA6KMRdWS+p6+muBw=="
+                length="14869660"
                 type="application/octet-stream" />
         </item>
     </channel>
