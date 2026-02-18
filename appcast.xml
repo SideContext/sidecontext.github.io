@@ -41,5 +41,17 @@
                 length="14876970"
                 type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 0.3.2</title>
+            <pubDate>Wed, 18 Feb 2026 20:58:46 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/sidecontext/releases/releases/download/v0.3.2/Sidecontext-0.3.2.dmg"
+                sparkle:edSignature="JPvuTFebnnoGARsLqScqIPDeW8rYKAVqoDCRdwBua3YawodYXSgs+POmw2Mkf2kp39C+W1fpl0md1y8B0/MtCQ=="
+                length="14890036"
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
